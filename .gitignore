@@ -1,0 +1,4 @@
+# Ignore versioned files
+*.b#*
+*.s#*
+CAMOutputs/
