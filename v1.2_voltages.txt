@@ -1,0 +1,9 @@
+Notes:
+Initial divider: 1.2k + 680
+Resistor net: 390 1.8k 1.5k 2.2k 22k
+
+0 -- <10.95V
+1 -- 10.95V - 12V
+2 -- 12V - 12.75V
+3 -- 12.75V - 13.65V
+4 -- >13.65V
