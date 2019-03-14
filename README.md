@@ -1,5 +1,5 @@
 ## BattMeter
-![PCB preview](/images/board.png)
+![PCB preview](/images/board.png)  
 BattMeter is a simple voltage meter for FTC batteries. The voltage ranges can be adjusted by changing the values of
 r1, r2, r3, r4, and r5 (see [v1.2_voltages.txt](/v1.2_voltages.txt) for default resistor values).  
 
