@@ -1,6 +1,6 @@
 Notes:
 Initial divider: 1.2k + 680
-Resistor net: 390 1.8k 1.5k 2.2k 22k
+Resistor net: r1=390, r2=1.8k, r3=1.5k, r4=2.2k, r5=22k
 
 0 -- <10.95V
 1 -- 10.95V - 12V

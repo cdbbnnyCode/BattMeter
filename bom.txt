@@ -1,0 +1,15 @@
+Here is a list of all of the components used on this board:
+2x LM358 Dual Operational Amplifier
+1x µA7805 5V Linear Regulator
+1x 10µF Electrolytic Capacitor
+7x Various 1/4W Resistors (see v1.2_voltages.txt for exact values)
+5x 330Ω 1/4W Resistors (for the LEDs)
+1x XT30U-M Connector (or whatever connector your batteries use)
+5x 5mm LEDs (feel free to be creative with the colors!*)
+
+* If you want even brightness, use 150Ω resistors on green and blue LEDs and 330Ω for LEDs in the red-yellow range.
+
+Some ideas for improving this board:
+* Add sticky foam to the back to avoid scratching up sufaces and/or short-circuiting when it is placed on a metal surface.
+  Don't forget to add cutouts for the information on the back!
+* 3D print a case for it--this might require modification of the connector arrangement and the LEDs.
