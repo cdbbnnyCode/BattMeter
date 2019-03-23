@@ -1,5 +1,5 @@
-## BattMeter
-![PCB preview](/images/board.png)  
+## BattMeter  
+![PCB preview](/images/20190322-205739_p0.jpg)   
 BattMeter is a simple voltage meter for FTC batteries. The voltage ranges can be adjusted by changing the values of
 r1, r2, r3, r4, and r5 (see [v1.2_voltages.txt](/v1.2_voltages.txt) for default resistor values).  
 The board has an XT30 plug to connect REV batteries directly. If you have a different type of connector on your batteries, you can:
